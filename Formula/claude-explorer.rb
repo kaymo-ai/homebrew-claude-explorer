@@ -1,8 +1,8 @@
 class ClaudeExplorer < Formula
   desc "Interactive viewer for Claude Code session data"
   homepage "https://github.com/kaymo-ai/claude-explorer"
-  url "https://github.com/kaymo-ai/claude-explorer/archive/refs/tags/v1.0.0.tar.gz"
-  sha256 "5a5f318e975c43cb2704bec9ab17ce2d93fade76097e60439d2590d60f556eb7"
+  url "https://github.com/kaymo-ai/claude-explorer/archive/refs/tags/v1.0.1.tar.gz"
+  sha256 "b05119c50e77a63583defcadc4a14117981f23614efeef58eda0872c8470cf1f"
   license "MIT"
   head "https://github.com/kaymo-ai/claude-explorer.git", branch: "main"
 
